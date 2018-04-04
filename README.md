@@ -1,4 +1,5 @@
 # Excellerate
+- Created in a 24-hr Hackathon.
 - Back-End for an Excel script that helped Users learn Excel shortcuts.
 - Works with an Excel script that is coded using VBA.
 - When Users click on a Ribbon, the script will show a prompt to display the shortcut corresponding to that Ribbon button.
